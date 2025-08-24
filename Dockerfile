@@ -1,3 +1,11 @@
+#   CS 7319 Software Architecture
+#   Homework 1B
+#   Java Spring Boot and Docker
+#   Ron Denny
+#   rdenny@smu.edu
+#
+#   Note: this is based on the Demo Docker file noted for Homework 1B
+
 # Stage 1: Build the application using Maven with OpenJDK 24
 FROM openjdk:24-slim AS builder
 
